@@ -1,0 +1,6 @@
+{
+  "name": "Urban Kicks",
+  "description": "Gran variedad de modelos y marcas de zapatillas. Atención personalizada y coordinamos entregas en CABA, Zona Oeste y La Matanza.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
