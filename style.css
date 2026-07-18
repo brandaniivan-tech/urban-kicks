@@ -1455,3 +1455,38 @@ img {
     gap: 12px;
   }
 }
+
+.catalogo{
+    text-align:center;
+    padding:40px 20px;
+    background: #f8f9fa;
+    border-radius: 18px;
+    max-width: 900px;
+    margin: 60px auto;
+}
+
+.catalogo h2{
+    margin-bottom:20px;
+}
+
+.catalogo p{
+    max-width:700px;
+    margin:auto;
+    margin-bottom:30px;
+}
+
+.catalogo-btn{
+    display:inline-block;
+    background:#25D366;
+    color:white;
+    padding:18px 38px;
+    border-radius:12px;
+    text-decoration:none;
+    font-weight:700;
+    font-size: 18px;
+    transition: 0.3s;
+}
+
+.catalogo-btn:hover{
+    transform: scale(1.05);
+}
